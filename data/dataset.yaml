@@ -1,5 +1,5 @@
-train: ../svhn/images/train/
-val: ../svhn/images/train/
+train: /content/svhn/images/
+val: /content/svhn/images/
 
 # number of classes
 nc: 10
